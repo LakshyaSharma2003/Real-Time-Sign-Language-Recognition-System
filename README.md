@@ -41,5 +41,4 @@ python your_script_name.py
 Contribution
 Feel free to contribute by submitting issues, suggesting features, or making pull requests. For any queries or issues, please open an issue in this repository.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
